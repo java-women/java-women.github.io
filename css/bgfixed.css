@@ -1,0 +1,40 @@
+body, html{
+    /* important */
+    height: 100%;
+    width: 100%;
+    background-color: #DC103C;
+}
+
+.fixed-bg {
+    min-height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.container-color {
+    background-color: #DC103C;
+    color: #FFFFFF;
+    font-size: 18pt;
+}
+
+.fixed-bg#bg-top {
+  background-image: url("../img/bg-coffee.jpg");
+}
+.fixed-bg#bg-profile {
+  background-image: url("../img/bg-session.jpg");
+}
+.fixed-bg#bg-sns {
+  background-image: url("../img/bg-pc.jpg");
+}
+.fixed-bg#bg-event {
+  background-image: url("../img/bg-helloween.jpg");
+}
+.fixed-bg#bg-staff {
+  background-image: url("../img/bg-staff.jpg");
+}
+
+.scrolling-bg {
+    min-height: 100%;
+}
