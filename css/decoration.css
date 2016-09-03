@@ -9,3 +9,12 @@ a {
 a:hover {
     color: hotpink;
 }
+
+.container {
+    padding: 70px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 150%;
+}
