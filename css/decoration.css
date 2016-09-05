@@ -18,3 +18,9 @@ a:hover {
     font-weight: bold;
     font-size: 150%;
 }
+
+footer {
+    color: lightpink;
+    text-align: center; 
+    margin: 10px;   
+}
