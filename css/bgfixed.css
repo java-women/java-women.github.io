@@ -1,7 +1,9 @@
 body, html{
     /* important */
     height: 100%;
+    width: 100%;
     background-color: #DC103C;
+    margin: 0;
 }
 
 .fixed-bg {
