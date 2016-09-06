@@ -1,0 +1,26 @@
+
+a {
+    font-weight: 700;
+    padding: 10px 0;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+.container {
+    padding: 70px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 150%;
+}
+
+footer {
+    color: lightpink;
+    text-align: center; 
+    margin: 10px;   
+}
