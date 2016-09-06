@@ -2,8 +2,9 @@ body, html{
     /* important */
     height: 100%;
     width: 100%;
-    background-color: #DC103C;
     margin: 0;
+    background-color: #DC103C;
+    font-family: "ヒラギノ丸ゴ ProN", "Hiragino Maru Gothic ProN";
 }
 
 .fixed-bg {
